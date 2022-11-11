@@ -225,7 +225,7 @@ const Home: NextPage = () => {
     return (
       <div className={styles.container}>
         <main className={styles.main}>
-        <h1 className={styles.title}>&#127759; Aetatum Mundi Members' Forum</h1>
+        <h1 className={styles.title}>&#127759; Aetatum Mundi Members&apos; Forum</h1>
         <p>Congratulations on being a member</p>
           <div>
             <div>
